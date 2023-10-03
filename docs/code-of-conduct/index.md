@@ -137,14 +137,28 @@ For answers to common questions about this code of conduct, see the FAQ at
 
 ### The `abuse@` and `modteam@` aliases
 
-While you can email CCoC violations to our abuse email alias, the scope of the abuse email alias covers more than CCoC violations and content needs moderator review and it's our legal team that review them.
+While you can email CCoC violations to our abuse email alias, the scope of the abuse email alias
+covers more than CCoC violations and content needs moderator review and it's our legal team that
+review them.
 
-Please note that email to the `modteam@recaptime.eu.org` alias will be forwarded to all of our community moderation team, alongside the leadership team (also known as `@recaptime-dev/squad-leads`) for assistance in case of large backlog.
+Please note that email to the `modteam@recaptime.eu.org` alias will be forwarded to all of our
+community moderation team, alongside the leadership team (also known as `@recaptime-dev/squad-leads`)
+for assistance in case of large backlog.
 
 ### Violations affecting other communities (or coming from other communities)
 
-If we receive a violation report that either affects or comes from other communities, we have limited moderation powers over what's happening outside our spaces, either public or within internal channels.
+If we receive a violation report that either affects or comes from other communities, we have limited
+moderation powers over what's happening outside our spaces, either public or within internal channels.
+This is usually the case when reporting content from other homeservers in the fediverse, in which
+coordination between homeserver admins and mods are required.
 
-If that's the case, a member from our moderation team will simply forward you case on your behalf if our bandwidth allows.
+If that's the case, a member from our moderation team will simply forward you case on your behalf if
+our bandwidth allows. [See also this FAQ entry on Contributor Convenant website][faq-twitter-posts]
+for context.
+
+[faq-twitter-posts]: https://www.contributor-covenant.org/faq/#can-i-be-cited-for-a-code-of-conduct-violation-for-something-that-i-say-on-twitter-or-other-social-media-site
 
 ### Applicability to staff/core team on business/corporate matters
+
+The Community Code of Conduct apply also to our core team members and staff, but we also follow a code
+of conduct specific to business/corporate settings.
