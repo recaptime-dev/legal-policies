@@ -50,4 +50,7 @@ myst_heading_anchors = 3
 
 html_theme = 'furo'
 html_title = 'Recap Time Squad Policies'
-html_static_path = ['_static']
+#html_static_path = ['_static']
+html_theme_options = {
+    "source_edit_link": "https://mau.dev/recaptime-dev/legal/policies/-/edit/main/docs/{filename}",
+}
