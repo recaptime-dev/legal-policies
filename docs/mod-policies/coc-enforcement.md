@@ -8,7 +8,7 @@ and moderators in chatrooms (particularly our Zulip Cloud organization).
 We follow the general advice on the version of Contributor Convenant our current code of
 conduct were adopted.
 
-## Application of Consequence Ladder into Recap Time Squad's
+## Application of Consequence Ladder into Recap Time Squad community
 
 ### Warning (either simple or formal)
 
@@ -36,3 +36,6 @@ or deactivate their accounts, alongside thier NDA access, during the extended ba
 TBD
 
 ## Enforcement on Fediverse
+
+Enforcing the community code of conduct on the fediverse is different due to
+federated nature of the network.

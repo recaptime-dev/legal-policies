@@ -1,4 +1,6 @@
-# Contributor Covenant Code of Conduct
+# Community Code of Conduct
+
+_**Last modified**: 2023-10-04 by [@ajhalili2006](https://mau.dev/ajhalili2006)_
 
 ## Our Pledge
 

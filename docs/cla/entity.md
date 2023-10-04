@@ -1,4 +1,4 @@
-# Individual CLA
+# Corporate/Entity CLA
 
 **_Adopted from Fiduciary License Agreement 2.0 based on the Entity Contributor Exclusive License Agreement (including the Traditional Patent License OPTION)_**
 
@@ -8,9 +8,9 @@ Last updated: 2023-09-09 by @ajhalili2006
 
 Thank you for your interest in contributing to Recap Time Squad's RecapTime.dev Open-source Projects ("We" or "Us").
 
-The purpose of this contributor agreement ("Agreement") is to clarify and document the rights granted by contributors to Us. To make this document effective, please follow the instructions at https://squad.lorebooks.eu.org/handbook/open-source/legal/cla.
+The purpose of this contributor agreement ("Agreement") is to clarify and document the rights granted by contributors to Us. To make this document effective, please follow the instructions at <https://squad.lorebooks.eu.org/handbook/open-source/legal/cla>.
 
-## 0. Preamble
+## 0\. Preamble
 
 Software is deeply embedded in all aspects of our lives and it is important that it empower, rather than restrict us. Free Software gives everybody the rights to use, understand, adapt and share software. These rights help support other fundamental freedoms like freedom of speech, press and privacy.
 
@@ -22,11 +22,11 @@ FSFE’s Fiduciary License Agreement (FLA) was created by the Free Software Foun
 
 This process only serves for the transfer of economic rights. So-called moral rights (e.g. authors right to be identified as author) remain with the original author(s) and are inalienable.
 
-### How to use this FLA
+## How to use this FLA
 
 If You are an employee and have created the Contribution as part of your employment, You need to have Your employer approve this Agreement or sign the Entity version of this document. If You do not own the Copyright in the entire work of authorship, any other author of the Contribution should also sign this – in any event, please contact Us at oss@crew.recaptime.eu.org
 
-## 1. Definitions
+## 1\. Definitions
 
 **"You"** means the individual Copyright owner who Submits a Contribution to Us.
 
