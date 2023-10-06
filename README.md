@@ -1,5 +1,8 @@
 # Recap Time Squad Policies
 
+[![Documentation Status](https://readthedocs.org/projects/recaptimedev-legal-policies/badge/?version=latest)](https://policies.recaptime.eu.org/?badge=latest&style=flat-square)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=flat-square)](./docs/code-of-conduct/index.md)
+
 These policies apply across both our public and internal spaces, published online
 for transparency. While they're currently public drafts, we'll work behind the scenes
 to finalize them for legal review and eventually full enforcement.
@@ -12,6 +15,8 @@ changed over time, including diffs of specific updates.
 ## When does Recap Time Squad update these policies?
 
 We'll update them as needed, but not as frequent as how we do commits here on `main` branch.
+(The privacy policy, terms of service, code of conducts require 30-daay waiting period after
+being merged to main branch alongside mandatory notification of changes.)
 
 ## Getting notified about changes
 
