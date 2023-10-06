@@ -1,4 +1,4 @@
-# Guidelines in enforcing Community Code of Conduct
+# CCoC Enforcement Guidelines
 
 This document applies to both squad members, community maintainers in open-source projects,
 and moderators in chatrooms (particularly our Zulip Cloud organization).
@@ -6,15 +6,22 @@ and moderators in chatrooms (particularly our Zulip Cloud organization).
 ## General
 
 We follow the general advice on the version of Contributor Convenant our current code of
-conduct were adopted.
+conduct were adopted, alongside Mozilla's diversity and inclusion guidelines, with some
+adjustments specific to our community and internal spaces.
 
-## Application of Consequence Ladder into Recap Time Squad community
+## Application of Consequence Ladder
+
+### Recommendations
+
+They're not treated as violations, although we'll log the case as informational
+internally.
 
 ### Warning (either simple or formal)
 
 Either the mod team, the project leadership or the squad leads should privately
 provide a written warning regarding the violation, along with clarity of violation
-and consequences of continued behavior.
+and consequences of continued behavior. This should be apply to ALL ladders of
+enforcement.
 
 If this is their first formal warning, evaluate their access to internal/sensitive content
 within Recap Time Squad and consider temporarily revoking their NDA access.
@@ -29,11 +36,14 @@ If this level of enforcement is used the second time, revoke dev/maintainer/mode
 if any, including temporarily suspending Staff SSO account access. For the third time, block
 or deactivate their accounts, alongside thier NDA access, during the extended ban.
 
-### Project/Area-Specific Bans
+### Project/Area-Specific and Permanent Bans
 
-### Permanent Ban
+```{admonition} Bans and blocks should be only used as last resort.
+:class: warning
 
-TBD
+While it is still possible to appeal an moderation action involving bans, once the squad leads upheld
+the ban decision, it is cannot be reversed unless the ban was happened in bad faith or human error.
+```
 
 ## Enforcement on Fediverse
 

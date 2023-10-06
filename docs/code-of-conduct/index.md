@@ -1,6 +1,7 @@
 # Community Code of Conduct
 
-_**Last modified**: 2023-10-04 by [@ajhalili2006](https://mau.dev/ajhalili2006)_
+_**Last modified**: 2023-10-04 policy-wise and 2023-10-06 on appendix and changelog
+by [@ajhalili2006](https://mau.dev/ajhalili2006)_
 
 ## Our Pledge
 
@@ -134,6 +135,21 @@ For answers to common questions about this code of conduct, see the FAQ at
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+
+---
+
+## Changelog
+
+* Current (commit TBD) - add changelog for this page
+* [`850332ab`](https://mau.dev/recaptime-dev/legal/policies/-/commit/850332abe108080778c3885fe340eeb81919d60b#0413b581cc7c224aa4a8018e44290698a06e36b9) -
+add `Last updated` to top of page.
+* [`a3d67880`](https://mau.dev/recaptime-dev/legal/policies/-/commit/a3d678806b231499035f564aa80b7ba5f700ff2e) -
+update content to appendix for wider context
+* [`33109567`](https://mau.dev/recaptime-dev/legal/policies/-/commit/33109567b34936621e2919be75c78d9225ef3e85) -
+migrate content to `docs` directory for introduction of Sphinx + Furo theme, alongside adding an appendix
+
+Older commits may be found in [our old policies repo](https://github.com/MadeByThePinsHub/policies/commits/master/CODE_OF_CONDUCT.md)
+in GitHub.
 
 ## Appendix
 
