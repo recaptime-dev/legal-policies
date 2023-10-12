@@ -1,6 +1,8 @@
 # CCoC Enforcement Guidelines
 
-This document applies to both squad members, community maintainers in open-source projects,
+_Last updated 2023-10-12 by [@ajhalili2006](https://mau.dev/ajhalili2006)_
+
+This living document applies to both squad members, community maintainers in open-source projects,
 and moderators in chatrooms (particularly our Zulip Cloud organization).
 
 ## General
@@ -9,7 +11,9 @@ We follow the general advice on the version of Contributor Convenant our current
 conduct were adopted, alongside Mozilla's diversity and inclusion guidelines, with some
 adjustments specific to our community and internal spaces.
 
-## Application of Consequence Ladder
+## Application of [Consequence Ladder]
+
+[Consequence Ladder]: https://github.com/mozilla/inclusion/blob/master/code-of-conduct-enforcement/consequence-ladder.md
 
 ### Recommendations
 
@@ -36,7 +40,7 @@ If this level of enforcement is used the second time, revoke dev/maintainer/mode
 if any, including temporarily suspending Staff SSO account access. For the third time, block
 or deactivate their accounts, alongside thier NDA access, during the extended ban.
 
-### Project/Area-Specific and Permanent Bans
+### Area-Specific and Permanent Bans
 
 ```{admonition} Bans and blocks should be only used as last resort.
 :class: warning
@@ -45,7 +49,10 @@ While it is still possible to appeal an moderation action involving bans, once t
 the ban decision, it is cannot be reversed unless the ban was happened in bad faith or human error.
 ```
 
+Depending on the situtation, we may scope the ban to specific project/community areas
+at our discretation.
+
 ## Enforcement on Fediverse
 
 Enforcing the community code of conduct on the fediverse is different due to
-federated nature of the network.
+the federated nature of the network, but we'll try to
