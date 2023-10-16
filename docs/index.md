@@ -22,6 +22,7 @@ For the changelog, we're working on that soon for most of our policies.
 
 terms
 privacy
+subprocessors
 ```
 
 ```{toctree}
