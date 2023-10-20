@@ -52,5 +52,5 @@ html_theme = 'furo'
 html_title = 'Recap Time Squad Policies'
 #html_static_path = ['_static']
 html_theme_options = {
-    "source_edit_link": "https://mau.dev/-/ide/project/recaptime-dev/legal/policies/edit/main/-/main/docs/{filename}",
+    "source_edit_link": "https://mau.dev/-/ide/project/recaptime-dev/legal/policies/edit/main/-/docs/{filename}",
 }
