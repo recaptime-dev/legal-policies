@@ -1,5 +1,11 @@
 # Open-source licensing policy
 
+```{admonition} Policy being developed in the public
+:class: warning
+
+This policy is a working public draft as part of to-be-exist Recap Time Squad Improvement Proposal.
+```
+
 ```{admonition} Too Long; Didn't Read
 :class: note
 
@@ -25,3 +31,5 @@ it better to decide it during the early days of your project.
 [GPL-3.0]: https://choosealicense.com/licenses/gpl-3.0/
 [AGPL-3.0]: https://choosealicense.com/licenses/agpl-3.0/
 [MIT]: https://choosealicense.com/licenses/mit
+
+Our licensing policy for open-source projects is simple: as long as it OSI-approved, we can allow it to exist within our namespace(s).

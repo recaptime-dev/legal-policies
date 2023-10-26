@@ -1,4 +1,4 @@
-# Developer's Certificate of Origin
+# Developer Certificate of Origin
 
 ```{admonition} Adopted from [proposals.spec.matrix.org](https://github.com/matrix-org/matrix-spec-proposals)'s Contributing Guidelines
 :class: info
@@ -73,10 +73,10 @@ Recap Time Squad:
         this project or the open source license(s) involved.
 
 If you agree to this for your contribution, then all that's needed is to
-include the line in your commit or pull request comment:
+include the line in your commit, email patch or merge request comment:
 
 ```
-Signed-off-by: Your Name <your@email.example.org>
+Signed-off-by: Your Name <username@host.tld>
 ```
 
 ...using your real name; unfortunately pseudonyms [^2] and anonymous contributions
@@ -87,6 +87,36 @@ can't be accepted. Git makes this trivial - just use the -s flag when you do
 [^2]: If you're part of the LGBTQIA+ community and worry about being deadnamed (especially in the public) or for privacy reasons,
 we recommend including both your preferred and legal name in your request
 and note that we should use your preferred name in private communications.
+
+## Attributing contributions on behalf of a organization
+
+In GitHub, you can attribute your commit on behalf of an organization you're representing in a patch/merge request
+by including a `on-behalf-of` trailer similarly to this:
+
+```
+Signed-off-by: Your Name <username@host.tld>
+On-behalf-of: @your-github-org <opensource@organization-name.tld>
+```
+
+We may use this to assisting which CLA or DCO signature we should refer to for legal recordkeeping and auditing purposes.
+
+To create commits on behalf of an organization ([per GitHub docs](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-on-behalf-of-an-organization)):
+
+* you must be a member of the organization indicated in the trailer
+* you must sign the commit
+* your commit email and the organization email must be in a domain verified by the organization
+* your commit message must end with the commit trailer on-behalf-of: @org `<name@organization.com>`
+  * `org` is the organization's username/slug
+  * `opensource@organization-name.tld`[^3] is in the organization's domain (the address can be used
+  as a public point of contact for open source efforts.)
+
+[^3]: In the example, we use `opensource` as the email username part for `organization-name.tld` example domain,
+but you can use something else, especially if you operate a [OSPO](https://go.recaptime.eu.org/handbook/ospo) with your organization/community.
+
+If your organization does not have its own GitHub namespace or prefers not to mention it, you can use the organization's legal name instead[^4].
+
+[^4]: For Fiscally Sponsored Organizations, especially those in open-source,
+please consult with your fiscal sponsor's Terms of Fiscal Sponsorship for details on who hold the copyright. (Projects under Open Source Collective should consult their ToFS [here](https://docs.oscollective.org/getting-started/terms-of-fiscal-sponsorship).)
 
 ## Private sign off
 
