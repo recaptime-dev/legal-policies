@@ -140,7 +140,8 @@ For answers to common questions about this code of conduct, see the FAQ at
 
 ## Changelog
 
-* Current (commit TBD) - add changelog for this page
+* Current (commit TBD) - Mention possible investigation in case of previous events being reported
+* [`04baf43a`](https://mau.dev/recaptime-dev/legal/policies/-/commit/04baf43ae09408e98c0d27b63889cb01e9c9495f#0413b581cc7c224aa4a8018e44290698a06e36b9) - add changelog for this page
 * [`850332ab`](https://mau.dev/recaptime-dev/legal/policies/-/commit/850332abe108080778c3885fe340eeb81919d60b#0413b581cc7c224aa4a8018e44290698a06e36b9) -
 add `Last updated` to top of page.
 * [`a3d67880`](https://mau.dev/recaptime-dev/legal/policies/-/commit/a3d678806b231499035f564aa80b7ba5f700ff2e) -
@@ -175,6 +176,11 @@ our bandwidth allows. [See also this FAQ entry on Contributor Convenant website]
 for context.
 
 [faq-twitter-posts]: https://www.contributor-covenant.org/faq/#can-i-be-cited-for-a-code-of-conduct-violation-for-something-that-i-say-on-twitter-or-other-social-media-site
+
+In case of a previous issue catch our attention (or found during an investigation), we'll look onto it
+and evaluate any options. This doesn't mean we're "digging your grave" for your past mistakes and
+controversies (see above) unless it's involving grave misconduct, especially involving current trusted
+community members (maintainers, moderators) and core team members.
 
 ### Applicability to staff/core team on business/corporate matters
 

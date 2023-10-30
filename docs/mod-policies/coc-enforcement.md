@@ -25,10 +25,13 @@ internally.
 Either the mod team, the project leadership or the squad leads should privately
 provide a written warning regarding the violation, along with clarity of violation
 and consequences of continued behavior. This should be apply to ALL ladders of
-enforcement.
+enforcement, as documented in Mozilla's.
 
 If this is their first formal warning, evaluate their access to internal/sensitive content
-within Recap Time Squad and consider temporarily revoking their NDA access.
+within Recap Time Squad and consider temporarily revoking their NDA access[^1].
+
+[^1]: The coverage of a regular NDA within Recap Time Squad are mostly PII data (per privacy laws
+globally)
 
 ### Mandatory Cool-off Period
 
@@ -50,9 +53,12 @@ the ban decision, it is cannot be reversed unless the ban was happened in bad fa
 ```
 
 Depending on the situtation, we may scope the ban to specific project/community areas
-at our discretation.
+at our discretation first before we proactively expand the scope of the ban (as the violation
+progresses).
 
 ## Enforcement on Fediverse
 
 Enforcing the community code of conduct on the fediverse is different due to
-the federated nature of the network, but we'll try to
+the federated nature of the network, but we'll try to moderate as much as we
+can. See [this appendix section](../code-of-conduct/index.md#violations-affecting-other-communities-or-coming-from-other-communities)
+in the community code of conduct for details.
