@@ -1,5 +1,14 @@
 # Contributor License Agreements
 
+```{admonition} RecapTime.dev CLAs are currently experimental
+:class: warning
+
+Although they are technically production-ready, we are still ironing out
+the required infrastructure and other things for implementation of CLA.
+We intend to only require CLAs on projects with copyleft licenses (mostly
+the GPL family of licenses, particularly the AGPL).
+```
+
 These legal documents describe about our contributor license agreements within
 our open-source projects, including any projects who adopt them in the future.
 
