@@ -6,7 +6,8 @@
 Although they are technically production-ready, we are still ironing out
 the required infrastructure and other things for implementation of CLA.
 We intend to only require CLAs on projects with copyleft licenses (mostly
-the GPL family of licenses, particularly the AGPL).
+the GPL family of licenses, particularly the AGPL) following
+[Element's lead on their Matrix homeserver implementations](https://element.io/blog/element-to-adopt-agplv3/).
 ```
 
 These legal documents describe about our contributor license agreements within
