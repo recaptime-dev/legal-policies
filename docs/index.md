@@ -37,5 +37,6 @@ cla/index
 :hidden:
 
 code-of-conduct/index
+code-of-conduct/staff
 mod-policies/index
 ```

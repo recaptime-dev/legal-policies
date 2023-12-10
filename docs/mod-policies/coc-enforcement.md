@@ -11,6 +11,13 @@ We follow the general advice on the version of Contributor Convenant our current
 conduct were adopted, alongside Mozilla's diversity and inclusion guidelines, with some
 adjustments specific to our community and internal spaces.
 
+## Scope
+
+Any activity performed using a `@crew.recaptime.eu.org` email address must follow the
+Code of Conduct as published for kernel.org, just as any individual using a corporate
+email account must follow the specific rules of that corporation. Additional policies
+may apply, including the
+
 ## Application of [Consequence Ladder]
 
 [Consequence Ladder]: https://github.com/mozilla/inclusion/blob/master/code-of-conduct-enforcement/consequence-ladder.md
@@ -31,7 +38,7 @@ If this is their first formal warning, evaluate their access to internal/sensiti
 within Recap Time Squad and consider temporarily revoking their NDA access[^1].
 
 [^1]: The coverage of a regular NDA within Recap Time Squad are mostly PII data (per privacy laws
-globally)
+globally) and internal projects.
 
 ### Mandatory Cool-off Period
 
