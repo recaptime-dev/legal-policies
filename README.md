@@ -1,6 +1,6 @@
 # Recap Time Squad Policies
 
-[![Documentation Status](https://readthedocs.org/projects/recaptimedev-legal-policies/badge/?version=latest)](https://policies.recaptime.eu.org/?badge=latest&style=flat-square)
+[![Documentation Status](https://readthedocs.org/projects/recaptimedev-legal-policies/badge/?version=latest)](https://policies.recaptime.dev/?badge=latest&style=flat-square)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=flat-square)](./docs/code-of-conduct/index.md)
 
 These policies apply across both our public and internal spaces, published online

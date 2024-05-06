@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Squad Policies'
-copyright = 'Recap Time Squad, dedicated to public domain under Creative Commons Zero Universal License'
-author = 'Recap Time Squad'
+copyright = 'Recap Time Squad and contributors, dedicated to public domain under Creative Commons Zero Universal License'
+author = 'Recap Time Squad and contributors'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

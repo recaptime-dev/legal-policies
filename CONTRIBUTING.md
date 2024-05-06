@@ -29,4 +29,5 @@ pipenv run serve
 ```
 
 We know Sphinx may not support a dev server in similar to Mkdocs, but
-we may plan on doing some sort of file watcher for builds.
+we may plan on doing some sort of file watcher for builds through a
+wrapper script soon.

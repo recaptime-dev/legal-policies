@@ -18,7 +18,7 @@ signoffs for those who need privacy regarding their legal name and/or email).
 
 ## Contributor Agreements
 
-```{admonition} RecapTime.dev CLAs are currently experimental
+```{admonition} RecapTime.dev CLAs are currently experimental, pending implementation details
 :class: warning
 
 Although they are technically production-ready, we are still ironing out
@@ -26,6 +26,9 @@ the required infrastructure and other things for implementation of CLA.
 We intend to only require CLAs on projects with copyleft licenses (mostly
 the GPL family of licenses, particularly the AGPL) following
 [Element's lead on their Matrix homeserver implementations](https://element.io/blog/element-to-adopt-agplv3/).
+
+You can track our progress at our issue tracker via
+<https://mau.dev/recaptime-dev/squad/issue-tracker/-/issues/8>
 ```
 
 ### How this work?
