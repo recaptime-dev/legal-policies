@@ -37,6 +37,14 @@ cla/index
 :hidden:
 
 code-of-conduct/index
-code-of-conduct/staff
 mod-policies/index
+```
+
+```{toctree}
+:caption: Staff Policies
+:hidden:
+
+staff/code-of-conduct
+staff/sso-access
+staff/conflict-of-interest
 ```

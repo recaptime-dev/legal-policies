@@ -1,6 +1,6 @@
 # Recap Time Squad Policies
 
-[![Documentation Status](https://readthedocs.org/projects/recaptimedev-legal-policies/badge/?version=latest)](https://policies.recaptime.dev/?badge=latest&style=flat-square)
+[![Documentation Status](https://readthedocs.org/projects/recaptimedev-legal-policies/badge/?version=latest&style=flat-square)](https://policies.recaptime.dev/?badge=latest&ref=repo-readme)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=flat-square)](./docs/code-of-conduct/index.md)
 
 These policies apply across both our public and internal spaces, published online
@@ -9,13 +9,13 @@ to finalize them for legal review and eventually full enforcement.
 
 ## Why we publish them here?
 
-We’ve published our terms and conditions on GitHub so that you can more easily how our policy has
+We’ve published our terms and conditions on GitHub (and friends) so that you can more easily how our policy has
 changed over time, including diffs of specific updates.
 
 ## When does Recap Time Squad update these policies?
 
 We'll update them as needed, but not as frequent as how we do commits here on `main` branch.
-(The privacy policy, terms of service, code of conducts require 30-daay waiting period after
+(The privacy policy, terms of service, code of conducts require 30-day (or more) waiting period after
 being merged to main branch alongside mandatory notification of changes.)
 
 ## Getting notified about changes
@@ -27,7 +27,7 @@ notifications like commits and CI or subscribe to our mailing list at sourcehut 
 [notifications-project-lab]: https://docs.gitlab.com/ee/user/profile/notifications.html#notification-levels
 
 If we have your email address on file since you're using our online services, you'll be receiving a email
-from the address `legal-changelog@noreply.recaptime.eu.org` about upcoming policy changes.
+from the address `legal@crew.recaptime.dev` about upcoming policy changes.
 
 ## Contributing guidelines
 
