@@ -3,6 +3,8 @@
 When acting as a processor for a User/Visitor, Recap Time Squad may engage the following entities to carry
 out specific processing activities.
 
+For the list of subprocessors for
+
 ## Third-Party Sub-processors
 
 | Thirdt Party Entity | Localtion | Service Provided | RecapTime.dev service/project |

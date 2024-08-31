@@ -13,9 +13,18 @@ to navigate around.
 This site only hosts the latest versions of our policies, but you may look at [commit history]
 in the GitLab repository.
 
-For the changelog, we're working on that soon for most of our policies.
+For the changelog, we're working on that soon for most of our policies to provide
+a more summarized version of commit logs and `git diff`s.
 
 [commit history]: https://mau.dev/recaptime-dev/legal/policies/-/commits/main/docs
+
+## Community-specific policies
+
+* We are formally accepting [Hack Club Code of Conduct] in addition to our own
+[Community Code of Conduct]
+
+[Hack Club Code of Conduct]: ./communities/hackclub/code-of-conduct.md
+[Community Code of Conduct]: ./code-of-conduct.md
 
 ```{toctree}
 :hidden:
@@ -38,6 +47,7 @@ cla/index
 
 code-of-conduct/index
 mod-policies/index
+communities/index
 ```
 
 ```{toctree}

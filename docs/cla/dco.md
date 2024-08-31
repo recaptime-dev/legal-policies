@@ -15,13 +15,13 @@ license their contribution under the same terms as the project's overall
 'outbound' license - in our case, this is usually the either [MIT license][MIT],
 [Apache Software License v2][Apache-2.0], [Mozilla Public License v2][MPL-2.0],
 [Creative Commons Attribution-ShareAlike 4.0 International][CC-BY-SA-4.0],
-and/or [][AGPL-3.0]
+and/or [GNU Affero General Public License v3.0][AGPL-3.0]
 
 [Apache-2.0]: https://choosealicense.com/licenses/apache-2.0/
 [MIT]: https://choosealicense.com/licenses/mit
 [MPL-2.0]: https://choosealicense.com/licenses/mpl-3.0/
 [CC-BY-SA-4.0]: https://creativecommons.org/licenses/by-sa/4.0/legalcode.en
-[AGPL-3.0]: https://choosealicense.com/licenses/gpl-3.0/
+[AGPL-3.0]: https://choosealicense.com/licenses/agpl-3.0/
 
 [^1]: We don't want to mess around copyright assignment clauses as part of
 our CLA, but if you want to assign your contributions' copyright to us in the future, please do not email our legal team on that.
@@ -122,7 +122,7 @@ please consult with your fiscal sponsor's Terms of Fiscal Sponsorship for detail
 
 If you would like to provide your legal name privately to the Recap Time Squad
 (instead of in a public commit or comment), you can do so by emailing
-your legal name and a link to the pull request to legal@recaptime.eu.org.
+your legal name and a link to the pull request to legal@recaptime.dev.
 It helps to include "sign off" or similar in the subject line.
 You will then be instructed further.
 
