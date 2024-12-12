@@ -1,6 +1,6 @@
 # HCB Brand Guidelines
 
-__**Last updated**__: 2024-08-31
+__**Last updated**__: 2024-12-12
 
 This page is adopted from [the official Brand Guidelines](https://hcb.hackclub.com/branding) for
 HCB / Hack Club for the use of HCB badges at [lorebooks.wiki Badges API] and our use of them
@@ -14,9 +14,9 @@ When using or mentioning HCB, please make sure to:
 
 * Capitalize every letter of HCB
 * Refrain from adding/removing additional characters and words (e.g. 'Hack Club HCB')
-* Refrain from using our previous name, "Hack Club Bank". (tl;dr: legal reasons relating to how to use the word `bank`)
+* Refrain from using their previous name, "Hack Club Bank". (tl;dr: legal reasons relating to how to use the word `bank`)
 
-**As a reminder, HCB is a fiscal host, not a bank!** They use [Column] to programmatically manage our organization's funds through a “restricted fund”—a privatized section of these bank accounts for our team only—is created for our organization through the platform. They also use [Stripe Issuing](https://stripe.com)
+**As a reminder, HCB is a fiscal host, not a bank!** They use [Column] to programmatically manage our organization's funds through a “restricted fund”—a privatized section of these bank accounts for our team only—is created for our organization through the platform. They also use [Stripe Issuing](https://stripe.com) for the virtual team cards to spend on expenses related to our work.
 
 ### Legal Names
 
@@ -27,37 +27,38 @@ When mentioning HCB in legal situtations, use either one of these:
 
 We recommend linking them to <https://hackclub.com/fiscal-sponsorship>, alongside mentioning its non-profit status, as noted below.
 
-## Fiscal sponsorship (for squad members and community maintainers)
-
-```{admonition} Do not do this yet!
-:class: warning
-
-We're currently in the onboarding process and we expect to sign a
-fiscal sponsorship agreement in a foreseekable future. In the meanwhile, please do not mention this anywhere else.
-```
+## Mentioning our fiscal sponsorship (for squad members and community maintainers)
 
 As a open-source organization fiscally sponsored through HCB,
-the following templates can be included on any correspondence, websites, marketing, etc.
-
-Should you customize them please make sure it clearly shares that we're fiscally sponsored by HCB.
-When in doubt, chime into [our issue tracker for HCB](https://issues.recaptime.dev/p/HCB/new?youtrack=true) or email `hcb@hackclub.com` with CCing `ajhalili2006@crew.recaptime.dev`.
+the following templates can be included on any correspondence, websites,
+marketing, etc. Should you customize them please make sure it clearly shares that
+we're fiscally sponsored by HCB. When in doubt, chime into [our issue tracker for HCB](https://issues.recaptime.dev/p/HCB/new?youtrack=true) or
+email `hcb@hackclub.com` with CCing `ajhalili2006@crew.recaptime.dev`.
 
 ### Markdown
 
 ```markdown
 Recap Time Squad is [fiscally sponsored](https://hackclub.com/fiscal-sponsorship) by [The Hack Foundation](https://hackfoundation.org) (d.b.a. [Hack Club](https://hackclub.com)), a 501(c)(3) US nonprofit (EIN: 81-2908499). 
+
+Community Lorebooks, a [Recap Time Squad](https://recaptime.dev) project, is [fiscally sponsored](https://hackclub.com/fiscal-sponsorship) by [The Hack Foundation](https://hackfoundation.org) (d.b.a. [Hack Club](https://hackclub.com)), a 501(c)(3) US nonprofit (EIN: 81-2908499).
 ```
 
-### Plain-text email signature
+#### Rendered
+
+Recap Time Squad is [fiscally sponsored](https://hackclub.com/fiscal-sponsorship) by [The Hack Foundation](https://hackfoundation.org) (d.b.a. [Hack Club](https://hackclub.com)), a 501(c)(3) US nonprofit (EIN: 81-2908499). 
+
+Community Lorebooks, a [Recap Time Squad](https://recaptime.dev) project, is [fiscally sponsored](https://hackclub.com/fiscal-sponsorship) by [The Hack Foundation](https://hackfoundation.org) (d.b.a. [Hack Club](https://hackclub.com)), a 501(c)(3) US nonprofit (EIN: 81-2908499).
+
+### Plain-text
+
+Add this at the end of your email signatures or in places where you can't do Markdown formatting:
 
 ```
----
+Recap Time Squad is fiscally sponsored by The Hack Foundation (d.b.a. Hack Club), a 501(c)(3) US nonprofit (EIN: 81-2908499). Learn more: https://hackclub.com/fiscal-sponsorship
+```
 
-<Your Name>
-<Community Maintainer|Squad member>, Recap Time Squad
-https://recaptime.dev | <your-website-here>
-
-Recap Time Squad is fiscally sponsored by The Hack Foundation (d.b.a. Hack Club), a 501(c)(3) US nonprofit (EIN: 81-2908499). (Learn more: https://hackclub.com/fiscal-sponsorship)
+```
+Community Lorebooks, a Recap Time Squad (https://recaptime.dev) project, is fiscally sponsored by The Hack Foundation (d.b.a. Hack Club), a 501(c)(3) US nonprofit (EIN: 81-2908499). Learn more: https://hackclub.com/fiscal-sponsorship
 ```
 
 ## HCB Logos
